@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Anasyousif
-- 👀 I’m interested in Machine learning , DataScience , Software engineering
-- 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on DataScience projects 
+- 👋 Hi, I’m @Anasyousif.
+- 👀 I’m interested in Software engineering.
+- 🌱 I’m currently learning Software engineering.
+- 💞️ I’m looking to collaborate on Software engineering.
 - 📫 How to reach me via email Anasyousif@gmail.com
 
 <!---
