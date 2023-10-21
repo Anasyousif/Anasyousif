@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anasyousif.
+- 👋 Hi, I’m Anas Yousif
 - 👀 I’m interested in Software engineering.
-- 🌱 I’m currently learning Software engineering.
-- 💞️ I’m looking to collaborate on Software engineering.
-- 📫 How to reach me via email Anasyousif@gmail.com
+- 🌱 I’m currently learning Full stack Development. 
+- 💞️ I’m looking to collaborate on Software engineering projects both front & backend.
+- 📫 How to reach me via email Anasyousif@gmail.com.
 
 <!---
 Anasyousif/Anasyousif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
